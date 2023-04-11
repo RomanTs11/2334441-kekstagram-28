@@ -1,4 +1,3 @@
-/* eslint-disable no-console */
 import {PHOTOS_COUNT, MIN_LIKES, MAX_LIKES, MESSAGES, MAX_COMMENTS} from './constants.js';
 import {USERS, DESCRIPTIONS, DIFFERENT_COMMENTS} from './constants.js';
 

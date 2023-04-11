@@ -1,5 +1,3 @@
-/* eslint-disable no-use-before-define */
-/* eslint-disable no-console */
 import {isEscapeKey} from './util.js';
 import { posts } from './thumbnail.js';
 
